@@ -1,0 +1,89 @@
+#bg-login-image {
+    background: url('../img/updatePass.svg');
+    margin-left: 100px;
+    margin-right: 50px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#registerCondImage {
+    background: url('../img/condominiumWalk.svg');
+    margin-left: 100px;
+    margin-right: 50px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#recoveryPassImage {
+    background: url('../img/recoverypass.svg');
+    margin-left: 100px;
+    margin-right: 50px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#conteudoPrincipalRegister {
+    margin-bottom: 31px;
+    margin-top: 42px;
+}
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    background-color: var(--bs-modal-bg);
+    background-clip: padding-box;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    border-radius: var(--bs-modal-border-radius);
+    outline: 0;
+    padding: 2rem;
+}
+
+#bg-white {
+    --bs-bg-opacity: 1;
+    background-color: #EEF1F4;
+}
+
+#pIndex {
+    margin-top: 25px;
+    font-weight: bold;
+}
+.modal-content {
+    background-color: #fff;
+}
+#btnEnviar {
+    background: #6b6b6b;
+    height: 50px;
+}
+#aRecovery {
+    text-decoration: none;
+}
+#cardResident {
+    max-width: 50rem;
+}
+.importanciaGrave,
+.importanciaMedio,
+.importanciaComum {
+    color: white;
+    font-weight: bold;
+    background-color: red;
+}
+.importanciaMedio {
+    background-color: #ffa500;
+}
+.importanciaComum {
+    background-color: #0000ff;
+}
+#historico_mensagens {
+    max-width: 35rem;
+    resize: none;
+}
+.input-group {
+    max-width: 35rem;
+}
+#imgLogoIndex {
+    width: 230px;
+    border-radius: 50%;
+}
+#callImg{
+    width: 150px;
+}
