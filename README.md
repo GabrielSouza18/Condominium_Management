@@ -1,4 +1,7 @@
 <h1 align="center"> <b>Condominium Management</b> </h1>
+<p align="center">
+  <img alt="projeto Habits" src="logo.png" width="100%">
+</p>
 
 
 <p align="center">
