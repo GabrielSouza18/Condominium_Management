@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Condominium Management</b> </h1>
 <p align="center">
-  <img alt="projeto Habits" src="logo.png" width="100%">
+  <img alt="projeto Habits" src="logo.png" width="50%" >
 </p>
 
 
