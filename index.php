@@ -49,6 +49,10 @@
                                 <center>
                                     <img src="assets/img/logo.svg" alt="LogoSite" id="imgLogoIndex">
                                     <p id="pIndex">Seja-Bem Vindo de Volta</p>
+                                    <p>Login padrão Sindico:</p>
+                                    <p>sindico@condominium.com</p>
+                                    <p>senha: 1234</p>
+                               
                                 </center>
                                 <div class="p-5 mb-5">
                                     <form action="assets/PHP/login_action.php" method="POST" class="user">

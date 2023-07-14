@@ -1,5 +1,5 @@
 <?php
-require_once 'assets/php/db_connect.php';
+require_once 'assets/PHP/db_connect.php';
 session_start();
 
 
