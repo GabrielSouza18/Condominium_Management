@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Condominium Management</b> </h1>
 <p align="center">
-  <img alt="projeto Habits" src="logo.png" width="50%" >
+  <img  src="logo.png" width="35%" >
 </p>
 
 
@@ -18,7 +18,7 @@ Projeto de Gestão condominial desenvolvido para Facilitar a Comunicação e Ger
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="preview.png" width="100%">
+  <img alt="projeto Habits" src="preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,14 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-
-
 - [Projeto Finalizado](http://managementcond.rf.gd/index.php)
-- 
-- [Documentação](http://managementcond.rf.gd/index.php) 📖
+- [Documentação](https://docs.google.com/document/d/1M45H34z30do0ojSM1-wPRgExmQKRqhOB/edit?usp=sharing&ouid=105138734644738674341&rtpof=true&sd=true) 📖
 
-
-
---
 
 Feito com ♥ by Gabriel
