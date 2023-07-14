@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-- [Projeto Finalizado](http://managementcond.rf.gd/index.php)
+- [Projeto Finalizado](condmanager.live)
 - [Documentação](https://docs.google.com/document/d/1M45H34z30do0ojSM1-wPRgExmQKRqhOB/edit?usp=sharing&ouid=105138734644738674341&rtpof=true&sd=true) 📖
 
 
